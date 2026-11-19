@@ -20,7 +20,7 @@ export function Footer() {
         </>
       )}
       {" · "}
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a href="https://github.com/vuducdung1308/splitmate" target="_blank" rel="noreferrer">
         Source (MIT)
       </a>
     </footer>
